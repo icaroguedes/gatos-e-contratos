@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Oxanium:wght@200;300;400;500;600;700;800&display=swap');
+
+.titulo-1{
+    font-size: 30px;
+    text-align: left;
+  
+}
+
+
+
+.cabecalho-style a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.cabecalho {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    box-sizing: border-box;
+    text-align: center;
+    font-size: 0.6em;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 0.23em;
+   
+    color: #fff;
+}
+
+.cabecalho__logo{
+    padding: 1.5em 0;
+    display: flex;
+    justify-content: flex-start;
+    width: 14.5em;
+}
+
+.cabecalho__menu{
+    background-color: #272B3A87;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+   
+	font-family: "Oxanium", cursive;
+	background-color: hsl(0, 0%, 0%);
+	color: #ffffff;
+}
+
+
+.cabecalho__item-menu {
+    display: inline-block;
+    
+}
+
+.cabecalho__item-menu a{ 
+    display: inline-block;
+    padding: 1.86em	1.42em;
+}
+
+
